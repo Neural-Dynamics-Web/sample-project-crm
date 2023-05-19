@@ -1,0 +1,8 @@
+{% extends "admin/base.html" %}
+{% load i18n static jazzmin admin_urls %}
+{% csrf_token %}
+
+{% block extrahead %}
+{{ block.super }}
+<link rel="stylesheet" href="{% static "css/progress.css" %}" />
+{% endblock %}
