@@ -31,7 +31,6 @@ This Django CRM System is aimed at providing businesses with an efficient and ea
 - Python 3.8+
 - Django 3.2+
 - PostgreSQL (or another preferred database)
-- Node.js and npm (for frontend dependencies if any)
 
 ## Installation
 
